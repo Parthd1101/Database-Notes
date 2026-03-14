@@ -1,3 +1,2 @@
 select * from tables.git_file_1 limit 10;
 
-git_file_1 copy;
