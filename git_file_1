@@ -1,0 +1,2 @@
+select * from tables.git_file_1 limit 10;
+
