@@ -1,2 +1,3 @@
 select * from tables.git_file_1 limit 10;
 
+adding file from hub to Git local.
